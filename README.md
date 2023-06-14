@@ -1,2 +1,2 @@
-# WIn-Win_Tetris_JS
+# WIn!_Tetris_JS
 https://tolambo.github.io/tetris_js/
